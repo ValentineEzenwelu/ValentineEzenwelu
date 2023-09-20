@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValentineEzenwelu;
-- 👀 I’m interested in game development, wed development, sotware programming; 
+- 👀 I’m interested in game development, web development, software programming; 
 - 🌱 I’m currently learning Java and python;
-- 💞️ I’m looking to collaborate on building wedsites, software and starters game;.
+- 💞️ I’m looking to collaborate on building websites, software and starters game;.
 - 📫 How to reach me gregezenwelu@gmail.com;
 
 <!---
